@@ -1,0 +1,15 @@
+.pic {
+    display:block;
+    margin: 150px 20px 20px 600px;
+
+  }
+ul {
+    float: right;
+}
+li {
+    display: inline-block;
+}
+footer {
+    float: right;
+    margin-top: 21em;
+}
